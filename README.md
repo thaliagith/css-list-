@@ -31,7 +31,7 @@
             font-weight: bold;
         }
 
-        img {
+        img {https://media.gq.com/photos/59132b29ee7e6447b1025d07/16:9/w_1920,c_limit/gq-playboi-carti-lead.jpg}
             display: block;
             margin: 0 auto;
             width: 70px;
@@ -80,7 +80,7 @@
     </ol>
 
     <ol>
-        <img src="carti 3.jpg" alt="Carti Photo 3">
+        <img src="https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/500x500-000000-80-0-0.jpg>
         <li>Wokeuplikethis</li>
         <li>Shoota</li>
     </ol>
